@@ -1,13 +1,13 @@
 {
-   "id": "75ea74e5-82e1-42a6-8602-63a7186d7a00",
-   "user_email": "wolfxxxz@mail.com",
-   "first_name": "wolfxxxz",
-   "last_name": "xxxz",
+   "id": "",
+   "user_email": "",
+   "first_name": "",
+   "last_name": "",
    "password": "",
-   "role": "admin",
+   "role": "",
    "user_words": null,
    "user_learn": null,
    "user_learned": null,
-   "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDU3NTQwMjYsImlkIjoiNzVlYTc0ZTUtODJlMS00MmE2LTg2MDItNjNhNzE4NmQ3YTAwIiwicm9sZSI6ImFkbWluIn0.yHy17G6z9nPgSBtgDfHYGjuQ4izNmbxbbnXyXK2MqAI",
-   "TokenExpired": "7000"
+   "Token": "",
+   "TokenExpired": ""
 }
